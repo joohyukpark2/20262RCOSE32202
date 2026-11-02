@@ -11,3 +11,12 @@ It contains documentation and learning notes related to operating systems.
 - Linux Kernel
 - System Calls
 - Process Management
+
+## Linux Kernel
+
+The Linux kernel is the core component of the operating system.
+
+It manages system resources such as CPU, memory, and processes.
+
+In this course, I learned how user programs interact with the Linux kernel through system calls.
+
