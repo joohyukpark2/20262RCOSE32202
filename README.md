@@ -28,3 +28,13 @@ User programs use system calls to request services such as file operations, proc
 
 In this course, I practiced implementing custom system calls in the Linux kernel.
 
+## Process Management
+
+Process management is an important responsibility of an operating system.
+
+The operating system creates, schedules, and terminates processes while managing system resources.
+
+In Linux, the fork() system call creates a new process, while exec() replaces the current process image with a new program.
+
+I learned how process creation and execution work in Linux.
+
