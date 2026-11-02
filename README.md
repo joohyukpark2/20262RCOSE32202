@@ -87,3 +87,22 @@ Pipes provide a simple way to transfer data between processes, while shared memo
 
 I learned how different IPC mechanisms support communication between processes in Linux.
 
+## Process Synchronization
+
+Process synchronization is important when multiple processes or threads access shared resources.
+
+Without proper synchronization, race conditions may occur and cause unexpected results.
+
+Common synchronization mechanisms include:
+
+- Mutex Locks
+- Semaphores
+- Condition Variables
+- Spinlocks
+
+A critical section is a part of a program where shared resources are accessed.
+
+Synchronization mechanisms help prevent race conditions and maintain data consistency.
+
+I studied how operating systems coordinate concurrent processes and threads.
+
