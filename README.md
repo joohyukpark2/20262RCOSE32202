@@ -38,3 +38,18 @@ In Linux, the fork() system call creates a new process, while exec() replaces th
 
 I learned how process creation and execution work in Linux.
 
+## CPU Scheduling
+
+CPU scheduling determines which process should use the CPU at a given time.
+
+Different scheduling algorithms are used to improve system performance and responsiveness.
+
+Some common scheduling algorithms include:
+
+- First-Come, First-Served (FCFS)
+- Shortest Job First (SJF)
+- Shortest Remaining Time First (SRTF)
+- Round Robin (RR)
+
+I studied how these algorithms affect waiting time, turnaround time, and CPU utilization.
+
