@@ -20,3 +20,11 @@ It manages system resources such as CPU, memory, and processes.
 
 In this course, I learned how user programs interact with the Linux kernel through system calls.
 
+## System Calls
+
+A system call provides an interface between user applications and the operating system kernel.
+
+User programs use system calls to request services such as file operations, process creation, and memory management.
+
+In this course, I practiced implementing custom system calls in the Linux kernel.
+
