@@ -106,3 +106,26 @@ Synchronization mechanisms help prevent race conditions and maintain data consis
 
 I studied how operating systems coordinate concurrent processes and threads.
 
+## Learning Reflections
+
+Through this Operating Systems course, I gained a better understanding of how operating systems manage hardware and software resources.
+
+Some of the key topics I explored include:
+
+- Linux kernel architecture
+- System call implementation
+- Process creation and scheduling
+- Memory management
+- Inter-process communication
+- Process synchronization
+
+Working with Linux helped me understand the relationship between user-level programs and kernel-level operations.
+
+This repository serves as a summary of my learning experience in the Operating Systems course.
+
+## Note
+
+This repository contains only documentation and study notes.
+
+Source code from Project #1 and Project #2 is not included, in accordance with the course instructions.
+
