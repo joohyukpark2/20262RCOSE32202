@@ -71,3 +71,19 @@ Virtual memory allows processes to use their own virtual address spaces, while p
 
 I studied how operating systems manage memory and provide memory protection between processes.
 
+## Inter-Process Communication (IPC)
+
+Inter-Process Communication (IPC) allows processes to exchange data and coordinate their activities.
+
+Common IPC mechanisms include:
+
+- Pipes
+- Message Queues
+- Shared Memory
+- Sockets
+- Signals
+
+Pipes provide a simple way to transfer data between processes, while shared memory allows multiple processes to access a common memory region.
+
+I learned how different IPC mechanisms support communication between processes in Linux.
+
