@@ -53,3 +53,21 @@ Some common scheduling algorithms include:
 
 I studied how these algorithms affect waiting time, turnaround time, and CPU utilization.
 
+## Memory Management
+
+Memory management is a fundamental function of an operating system.
+
+The operating system allocates and manages memory resources for running processes.
+
+Important concepts in memory management include:
+
+- Virtual Memory
+- Paging
+- Memory Allocation
+- Address Translation
+- Stack and Heap Memory
+
+Virtual memory allows processes to use their own virtual address spaces, while paging helps manage memory efficiently.
+
+I studied how operating systems manage memory and provide memory protection between processes.
+
